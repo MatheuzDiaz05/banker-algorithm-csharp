@@ -1,0 +1,15 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\bin\Debug\net6.0\BankerAlgorithm.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\bin\Debug\net6.0\BankerAlgorithm.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\bin\Debug\net6.0\BankerAlgorithm.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\bin\Debug\net6.0\BankerAlgorithm.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\bin\Debug\net6.0\BankerAlgorithm.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\BankerAlgorithm.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\BankerAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\BankerAlgorithm.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\BankerAlgorithm.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\BankerAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\BankerAlgorithm.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\refint\BankerAlgorithm.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\BankerAlgorithm.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\BankerAlgorithm.genruntimeconfig.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\TUDO\S.I PUC\Trabalho SO\BankerAlgorithm\BankerAlgorithm\obj\Debug\net6.0\ref\BankerAlgorithm.dll
